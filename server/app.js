@@ -24,7 +24,7 @@ app.use(express.urlencoded({ extended: false }));
 //cors요청처리
 app.use(
   cors({
-    origin: ['http://localhost:3000', 'https://localhost:3000'],//요청을 허용할 오리진
+    origin: true/*['http://localhost:3000', 'https://localhost:3000']*/,//요청을 허용할 오리진
     credentials: true,//사용자 인증이 필요한 리소스접근이 필요한경우 true설정
     methods: ['GET', 'POST', 'DELETE', "PATCH", 'OPTIONS']//허용한 메소드들
   })
