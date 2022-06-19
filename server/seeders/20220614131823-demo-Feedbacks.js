@@ -5,12 +5,45 @@ module.exports = {
     return queryInterface.bulkInsert('Feedbacks', [
      {
       id:1,
-      user_id: 3,
-      video:"https://ohwunwan-multer.s3.ap-northeast-2.amazonaws.com/%E1%84%89%E1%85%B5%E1%84%83%E1%85%A5/%E1%84%91%E1%85%B5%E1%84%83%E1%85%B3%E1%84%87%E1%85%A2%E1%86%A8%E1%84%83%E1%85%A9%E1%86%BC%E1%84%8B%E1%85%A7%E1%86%BC%E1%84%89%E1%85%A1%E1%86%BC/%E1%84%8B%E1%85%B2%E1%84%8C%E1%85%A53%E1%84%91%E1%85%B5%E1%84%83%E1%85%B3%E1%84%87%E1%85%A2%E1%86%A8.mov",
+      user_id: 1,
+      video:"https://ohwunwan-multer.s3.ap-northeast-2.amazonaws.com/user1/user1_feedback1.mov",
       text_content: "자세좀 봐주세요!",
       createdAt: new Date(),
       updatedAt: new Date(),
-     }
+     },
+     {
+      id:2,
+      user_id: 2,
+      video:"https://ohwunwan-multer.s3.ap-northeast-2.amazonaws.com/user2/user2_feedback1.mov",
+      text_content: "자세좀 봐주세요!",
+      createdAt: new Date(),
+      updatedAt: new Date(),
+     },
+     {
+      id:3,
+      user_id: 3,
+      video:"https://ohwunwan-multer.s3.ap-northeast-2.amazonaws.com/user3/user3_feedback.mov",
+      text_content: "자세좀 봐주세요!",
+      createdAt: new Date(),
+      updatedAt: new Date(),
+     },
+     {
+      id:4,
+      user_id: 4,
+      video:"https://ohwunwan-multer.s3.ap-northeast-2.amazonaws.com/user4/user4_feedback.mov",
+      text_content: "자세좀 봐주세요!",
+      createdAt: new Date(),
+      updatedAt: new Date(),
+     },
+     {
+      id:5,
+      user_id: 5,
+      video:"https://ohwunwan-multer.s3.ap-northeast-2.amazonaws.com/user5/user5_feedback.mov",
+      text_content: "자세좀 봐주세요!",
+      createdAt: new Date(),
+      updatedAt: new Date(),
+     },
+    
   ])
   },
 
