@@ -27,6 +27,94 @@ module.exports = {
       createdAt: new Date(),
       updatedAt: new Date(),
      },
+
+
+
+
+     {
+      user_id: 1,
+      feedback_id:2,
+      createdAt: new Date(),
+      updatedAt: new Date(),
+     },
+     {
+      user_id: 2,
+      feedback_id:2,
+      createdAt: new Date(),
+      updatedAt: new Date(),
+     },
+     {
+      user_id: 3,
+      feedback_id:2,
+      createdAt: new Date(),
+      updatedAt: new Date(),
+     },
+     {
+      user_id: 4,
+      feedback_id:2,
+      createdAt: new Date(),
+      updatedAt: new Date(),
+     },
+
+
+
+     {
+      user_id: 1,
+      feedback_id:3,
+      createdAt: new Date(),
+      updatedAt: new Date(),
+     },
+     {
+      user_id: 2,
+      feedback_id:3,
+      createdAt: new Date(),
+      updatedAt: new Date(),
+     },
+     {
+      user_id: 3,
+      feedback_id:3,
+      createdAt: new Date(),
+      updatedAt: new Date(),
+     },
+     {
+      user_id: 4,
+      feedback_id:3,
+      createdAt: new Date(),
+      updatedAt: new Date(),
+     },
+
+
+     {
+      user_id: 1,
+      feedback_id:4,
+      createdAt: new Date(),
+      updatedAt: new Date(),
+     },
+     {
+      user_id: 3,
+      feedback_id:4,
+      createdAt: new Date(),
+      updatedAt: new Date(),
+     },
+     {
+      user_id: 4,
+      feedback_id:4,
+      createdAt: new Date(),
+      updatedAt: new Date(),
+     },
+     {
+      user_id: 3,
+      feedback_id:5,
+      createdAt: new Date(),
+      updatedAt: new Date(),
+     },
+     {
+      user_id: 4,
+      feedback_id:5,
+      createdAt: new Date(),
+      updatedAt: new Date(),
+     },
+
   ])
   },
 

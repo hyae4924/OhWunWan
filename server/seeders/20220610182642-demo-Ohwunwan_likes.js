@@ -83,48 +83,6 @@ module.exports = {
       },
       {
         user_id: 1,
-        ohwunwan_id: 14,
-        createdAt: new Date(),
-        updatedAt: new Date(),
-      },
-      {
-        user_id: 1,
-        ohwunwan_id: 15,
-        createdAt: new Date(),
-        updatedAt: new Date(),
-      },
-      {
-        user_id: 1,
-        ohwunwan_id: 16,
-        createdAt: new Date(),
-        updatedAt: new Date(),
-      },
-      {
-        user_id: 1,
-        ohwunwan_id: 17,
-        createdAt: new Date(),
-        updatedAt: new Date(),
-      },
-      {
-        user_id: 1,
-        ohwunwan_id: 18,
-        createdAt: new Date(),
-        updatedAt: new Date(),
-      },
-      {
-        user_id: 1,
-        ohwunwan_id: 19,
-        createdAt: new Date(),
-        updatedAt: new Date(),
-      },
-      {
-        user_id: 1,
-        ohwunwan_id: 20,
-        createdAt: new Date(),
-        updatedAt: new Date(),
-      },
-      {
-        user_id: 1,
         ohwunwan_id: 1,
         createdAt: new Date(),
         updatedAt: new Date(),
@@ -201,54 +159,7 @@ module.exports = {
         createdAt: new Date(),
         updatedAt: new Date(),
       },
-      {
-        user_id: 1,
-        ohwunwan_id: 14,
-        createdAt: new Date(),
-        updatedAt: new Date(),
-      },
-      {
-        user_id: 1,
-        ohwunwan_id: 15,
-        createdAt: new Date(),
-        updatedAt: new Date(),
-      },
-      {
-        user_id: 1,
-        ohwunwan_id: 16,
-        createdAt: new Date(),
-        updatedAt: new Date(),
-      },
-      {
-        user_id: 1,
-        ohwunwan_id: 17,
-        createdAt: new Date(),
-        updatedAt: new Date(),
-      },
-      {
-        user_id: 1,
-        ohwunwan_id: 18,
-        createdAt: new Date(),
-        updatedAt: new Date(),
-      },
-      {
-        user_id: 1,
-        ohwunwan_id: 19,
-        createdAt: new Date(),
-        updatedAt: new Date(),
-      },
-      {
-        user_id: 1,
-        ohwunwan_id: 20,
-        createdAt: new Date(),
-        updatedAt: new Date(),
-      },
-
-
-
-
-
-
+      
       {
         user_id: 2,
         ohwunwan_id: 1,
@@ -324,48 +235,6 @@ module.exports = {
       {
         user_id: 2,
         ohwunwan_id: 13,
-        createdAt: new Date(),
-        updatedAt: new Date(),
-      },
-      {
-        user_id: 2,
-        ohwunwan_id: 14,
-        createdAt: new Date(),
-        updatedAt: new Date(),
-      },
-      {
-        user_id: 2,
-        ohwunwan_id: 15,
-        createdAt: new Date(),
-        updatedAt: new Date(),
-      },
-      {
-        user_id: 2,
-        ohwunwan_id: 16,
-        createdAt: new Date(),
-        updatedAt: new Date(),
-      },
-      {
-        user_id: 2,
-        ohwunwan_id: 17,
-        createdAt: new Date(),
-        updatedAt: new Date(),
-      },
-      {
-        user_id: 2,
-        ohwunwan_id: 18,
-        createdAt: new Date(),
-        updatedAt: new Date(),
-      },
-      {
-        user_id: 2,
-        ohwunwan_id: 19,
-        createdAt: new Date(),
-        updatedAt: new Date(),
-      },
-      {
-        user_id: 2,
-        ohwunwan_id: 20,
         createdAt: new Date(),
         updatedAt: new Date(),
       },
@@ -447,49 +316,7 @@ module.exports = {
         createdAt: new Date(),
         updatedAt: new Date(),
       },
-      {
-        user_id: 4,
-        ohwunwan_id: 14,
-        createdAt: new Date(),
-        updatedAt: new Date(),
-      },
-      {
-        user_id: 4,
-        ohwunwan_id: 15,
-        createdAt: new Date(),
-        updatedAt: new Date(),
-      },
-      {
-        user_id: 4,
-        ohwunwan_id: 16,
-        createdAt: new Date(),
-        updatedAt: new Date(),
-      },
-      {
-        user_id: 4,
-        ohwunwan_id: 17,
-        createdAt: new Date(),
-        updatedAt: new Date(),
-      },
-      {
-        user_id: 4,
-        ohwunwan_id: 18,
-        createdAt: new Date(),
-        updatedAt: new Date(),
-      },
-      {
-        user_id: 4,
-        ohwunwan_id: 19,
-        createdAt: new Date(),
-        updatedAt: new Date(),
-      },
-      {
-        user_id: 4,
-        ohwunwan_id: 20,
-        createdAt: new Date(),
-        updatedAt: new Date(),
-      },
-
+     
 
       {
         user_id: 5,
@@ -569,48 +396,7 @@ module.exports = {
         createdAt: new Date(),
         updatedAt: new Date(),
       },
-      {
-        user_id: 5,
-        ohwunwan_id: 14,
-        createdAt: new Date(),
-        updatedAt: new Date(),
-      },
-      {
-        user_id: 5,
-        ohwunwan_id: 15,
-        createdAt: new Date(),
-        updatedAt: new Date(),
-      },
-      {
-        user_id: 5,
-        ohwunwan_id: 16,
-        createdAt: new Date(),
-        updatedAt: new Date(),
-      },
-      {
-        user_id: 5,
-        ohwunwan_id: 17,
-        createdAt: new Date(),
-        updatedAt: new Date(),
-      },
-      {
-        user_id: 5,
-        ohwunwan_id: 18,
-        createdAt: new Date(),
-        updatedAt: new Date(),
-      },
-      {
-        user_id: 5,
-        ohwunwan_id: 19,
-        createdAt: new Date(),
-        updatedAt: new Date(),
-      },
-      {
-        user_id: 5,
-        ohwunwan_id: 20,
-        createdAt: new Date(),
-        updatedAt: new Date(),
-      },
+    
     ]) 
   },
 
